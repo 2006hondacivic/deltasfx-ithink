@@ -1,5 +1,5 @@
 title: Deltarune SFX
-description: Replaces most of the system sound effects with Deltarune sound effects!
+description: Replaces most of the system sound effects and world themes with that of Deltarune/Undertale!
 assets:
 - name: se\se000.win32.scd
   method: copy
