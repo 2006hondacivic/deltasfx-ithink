@@ -105,3 +105,11 @@ assets:
   method: copy
   source:
   - name: bgm\music121.win32.scd
+- name: bgm\music128.win32.scd
+  method: copy
+  source:
+  - name: bgm\music128.win32.scd
+- name: bgm\music131.win32.scd
+  method: copy
+  source:
+  - name: bgm\music131.win32.scd
