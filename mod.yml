@@ -9,6 +9,10 @@ assets:
   method: copy
   source:
   - name: vagstream\End_Piano.win32.scd
+- name: vagstream\Title.win32.scd
+  method: copy
+  source:
+  - name: vagstream\Title.win32.scd
 - name: bgm\music054.win32.scd
   method: copy
   source:
