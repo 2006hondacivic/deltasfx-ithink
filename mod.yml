@@ -157,3 +157,19 @@ assets:
   method: copy
   source:
   - name: bgm\music116.win32.scd
+- name: bgm\music059.win32.scd
+  method: copy
+  source:
+  - name: bgm\music059.win32.scd
+- name: bgm\music060.win32.scd
+  method: copy
+  source:
+  - name: bgm\music060.win32.scd
+- name: bgm\music061.win32.scd
+  method: copy
+  source:
+  - name: bgm\music061.win32.scd
+- name: bgm\music062.win32.scd
+  method: copy
+  source:
+  - name: bgm\music062.win32.scd
