@@ -229,3 +229,7 @@ assets:
   method: copy
   source:
   - name: bgm\music144.win32.scd
+- name: bgm\music143.win32.scd
+  method: copy
+  source:
+  - name: bgm\music143.win32.scd
